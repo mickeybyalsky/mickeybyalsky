@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 👋 Hi, I’m Mickey!
 
-🎓 I'm currently a third year Computer Science student at York University expecting to graduate in April 2025!es!
+🎓 I'm currently a third year Computer Science student at York University expecting to graduate in April 2025!
 
 🍀 I have a passion for coding and am constantly seeking new opportunities to expand my skills and knowledge in the field. Currently interested in learning more about Machine Learning!
 
